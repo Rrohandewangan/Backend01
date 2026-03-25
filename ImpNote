@@ -1,0 +1,3 @@
+1. when we try connect database always use try-catch block
+2. database is always in another continent 
+so always use async-await.
